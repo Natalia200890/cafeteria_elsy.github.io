@@ -214,7 +214,7 @@ margin-left: -1000px;
 }
 @font-face{
 	font-family:aileron;
-	src:url(aileron.regular.otf)
+	src:url(/fonts/aileron.regular.otf)
 }
 .aileron{
 	font-family: aileron;
