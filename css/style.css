@@ -179,7 +179,7 @@ margin-left: -7px;
 }
 @font-face{
 	font-family:elejida;
-	src:url(fonts/Nickainley-Normal.otf)
+	src:url(../fonts/Nickainley-Normal.otf)
 }
 .Nickainley-Normal{
     left: 30px;
@@ -214,7 +214,7 @@ margin-left: -1000px;
 }
 @font-face{
 	font-family:aileron;
-	src:url(fonts/aileron.regular.otf)
+	src:url(../fonts/aileron.regular.otf)
 }
 .aileron{
 	font-family: aileron;
@@ -230,7 +230,7 @@ div.container-fluid{
 	z-index: 1;
 }
 #container1{
-	background-image: url(img/fondoH.gif);
+	background-image: url(../img/fondoH.gif);
 	background-size: cover;
 	background-repeat:no-repeat;
 	background-position: center center;
@@ -257,7 +257,7 @@ div.container-fluid{
 }
 
 .bg-f{
-	background-image: url("img/footer.jpg");
+	background-image: url("../img/footer.jpg");
 	background-attachment: scroll;
 	background-clip: initial;
 	background-color: rgba(0, 0, 0, 0);
