@@ -179,6 +179,7 @@ h3{
 .navbar-light .navbar-toggler:hover{
 	background: #de5c13;
 }
+
 .logo{
 width: 65px;
 height: 55px;
@@ -431,18 +432,14 @@ ul.socialIcons {
   
   .socialIcons .facebook {
 	background-color: white;
-	
-   
   }
   
   .socialIcons .whatsapp {
 	background-color: white;
-   
   }
   
   .socialIcons .instagram {
 	background-color: white;
-   
   }
   .conf{
 	display: inline-block;
@@ -455,8 +452,7 @@ ul.socialIcons {
  .card-img-top {
 	 width: 100%;
 	 height: 200px;
- }
+}
 .card-text{
-	text-align: center;
-	
+	text-align: center;	
 }
