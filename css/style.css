@@ -144,6 +144,13 @@ h3{
 	border-radius: 4px;
 	text-transform: uppercase;
 }
+.nav-link1{
+	color: #010101;
+	font-size: 14px;
+	padding: 10px 20px;
+	border-radius: 4px;
+	text-transform: uppercase;
+}
 
 .top-navbar .navbar-light .navbar-nav .nav-item .nav-link:hover{
 	background: #de5c13;
@@ -188,6 +195,30 @@ margin-left: -7px;
     color: #E94D5E;
 	font-family:elejida;
 }
+.Nickainley-Normalcatalogo{
+    text-align: center;
+	margin-left: 60px;
+    font-size: 35px;
+	padding: 20px 20px;   
+    color: #070707;
+	font-family:elejida;
+}
+.Nickainley-Normaldesayunos{
+    text-align: center;
+	margin-left: 200px;
+    font-size: 35px;
+	padding: 20px 20px;   
+    color: #070707;
+	font-family:elejida;
+}
+.Nickainley-Normaltipicos{
+    text-align: center;
+	margin-left: 300px;
+    font-size: 35px;
+	padding: 20px 20px;   
+    color: #070707;
+	font-family:elejida;
+}
 .Nickainley-Normaln{
     left: 30px;
     font-size: 30px;
@@ -220,6 +251,10 @@ margin-left: -1000px;
 	font-family: aileron;
 	font-size: 14px;
 }
+.aileron1{
+	font-family: aileron;
+	font-size: 18px;
+}
 div.container-fluid{
     height: 50px;
     padding: 0px;
@@ -235,18 +270,17 @@ div.container-fluid{
 	background-repeat:no-repeat;
 	background-position: center center;
 	width: 100%;
-	height: 906px;
+	height: 1006px;
 }
 #margen{
 	margin-right: 40px;
 	margin-left: 40px;
 }
-/*section*/
+
 .section{
     width: 100%;
     height: 400px;
 }
-/*footer*/
 
 .footer-area{
 	padding-top: 50px;
@@ -379,7 +413,7 @@ ul.socialIcons {
 	max-width: 1.28571429em;
 	height: 1.28571429em;
 	white-space: nowrap;
-	line-height: 1.5em; /*it's working only when you write text with icon*/
+	line-height: 1.5em;
 	transition: 0.5s;
 	text-decoration: none;
 	font-family: arial;
@@ -425,6 +459,4 @@ ul.socialIcons {
 .card-text{
 	text-align: center;
 	
-} 
-  
-  
+}
