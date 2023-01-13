@@ -106,12 +106,11 @@ textarea {
 }
 
 .Nickainley-Normalh {
-	left: 30px;
 	font-size: 30px;
-	padding: 10px 20px;
+	margin-top: 5%;
 	color: #E94D5E;
 	font-family: elejida;
-	margin-left: -15px;
+	text-align: left;
 }
 
 @font-face {
