@@ -47,6 +47,8 @@ h3 {
 	color: #de5c13 !important;
 	font-family: Gabriola;
 	font-size: 25px;
+	text-align: center;
+	text-transform: uppercase;
 }
 
 textarea {
@@ -78,29 +80,9 @@ textarea {
 	font-family: elejida;
 }
 
-.Nickainley-Normalcatalogo {
+.Nickainley-Normal-titulo {
 	text-align: center;
-	margin-left: 60px;
-	font-size: 35px;
-	padding: 20px 20px;
-	color: #070707;
-	font-family: elejida;
-}
-
-.Nickainley-Normaldesayunos {
-	text-align: center;
-	margin-left: 200px;
-	font-size: 35px;
-	padding: 20px 20px;
-	color: #070707;
-	font-family: elejida;
-}
-
-.Nickainley-Normaltipicos {
-	text-align: center;
-	margin-left: 300px;
-	font-size: 35px;
-	padding: 20px 20px;
+	font-size: 35px;	
 	color: #070707;
 	font-family: elejida;
 }
@@ -124,12 +106,12 @@ textarea {
 }
 
 .Nickainley-Normalh {
-	margin-left: -1000px;
+	left: 30px;
 	font-size: 30px;
 	padding: 10px 20px;
 	color: #E94D5E;
 	font-family: elejida;
-	margin-top: -20px;
+	margin-left: -15px;
 }
 
 @font-face {
@@ -171,7 +153,7 @@ p {
 }
 
 .conf {
-	display: inline-block;
+	display: inline-block;	
 }
 
 .conf2 {
@@ -187,7 +169,11 @@ p {
 	width: 100%;
 	height: 200px;
 }
-
-.card-text {
+.card-title{
 	text-align: center;
+	text-transform: uppercase;
+	font-size: 17px;
+}
+.card-text {
+	text-align: justify;
 }
