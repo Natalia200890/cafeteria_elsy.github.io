@@ -37,8 +37,8 @@ h3 {
 }
 
 .comentarios {
-	width: 30%;
-	margin-left: 35%;
+	width: 50%;
+	margin-left: 25%;
 	font-size: 15px;
 	text-transform: uppercase;
 }
@@ -147,9 +147,13 @@ textarea {
 	height: 400px;
 }
 
-p {
-	text-align: justify;
-}
+	p {
+		text-align: justify;
+	}
+	p1 {
+		text-align: justify;
+		position:fixed;
+	}
 
 .conf {
 	display: inline-block;	
